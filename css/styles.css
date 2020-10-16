@@ -10,11 +10,29 @@
   font-size: large;
 }
 .sidebar {
-  width: 30%;
+  width: 40%;
   float: right;
 }
 .my-class {
   border-bottom: 5px;
+  padding: 20px;
+}
+hr {
+  color: black;
+  width: auto;
+  height: 25px;
+  margin-right: auto;
+  margin-left: 0;
+}
+.about-me {
+  width: auto;
+  border-width: 1px;
+  box-sizing: border-box;
+}
+.repo-link {
+  padding: 10px;
+  position: relative;
+  top: 50px;
 }
 /* img {
   float: right;
