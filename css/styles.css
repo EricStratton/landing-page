@@ -17,6 +17,9 @@
   border-bottom: 5px;
   padding: 20px;
 }
+.highlight {
+  background-color: bisque;
+}
 hr {
   color: black;
   width: auto;
@@ -24,6 +27,9 @@ hr {
   margin-right: auto;
   margin-left: auto;
   overflow: hidden;
+}
+.sq {
+  width: 50%;
 }
 .about-me {
   width: auto;
