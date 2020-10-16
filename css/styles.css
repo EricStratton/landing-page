@@ -5,12 +5,16 @@
   background-color: bisque;
 }
 .header {
+  font-style: italic;
   text-emphasis: bold;
-  font-size: medium;
+  font-size: large;
 }
 .sidebar {
   width: 30%;
   float: right;
+}
+.my-class {
+  border-bottom: 5px;
 }
 /* img {
   float: right;
