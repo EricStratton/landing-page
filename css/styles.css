@@ -22,7 +22,8 @@ hr {
   width: auto;
   height: 25px;
   margin-right: auto;
-  margin-left: 0;
+  margin-left: auto;
+  overflow: hidden;
 }
 .about-me {
   width: auto;
@@ -37,11 +38,10 @@ hr {
 .emph {
   font-weight: bolder;
 }
-.sidebar-2 {
-  width: 40%;
-  float: right;
+.goals {
+  border: 1px;
+  padding: 35px;
 }
-
 /* img {
   float: right;
 } */
