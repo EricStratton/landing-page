@@ -3,6 +3,7 @@
 }
 .jumbotron {
   background-color: bisque;
+  font-weight: bolder;
 }
 img {
   float: right;
@@ -15,7 +16,7 @@ img {
 }
 .header {
   font-style: italic;
-  text-emphasis: bold;
+  font-weight: bold;
   font-size: large;
 }
 .sidebar {
@@ -45,6 +46,7 @@ hr {
   width: auto;
   border-width: 1px;
   box-sizing: border-box;
+  padding-bottom: 50px;
 }
 .repo-link {
   padding: 10px;
@@ -57,4 +59,7 @@ hr {
 .goals {
   border: 1px;
   padding: 35px;
+}
+.goals li {
+  line-height: 35px;
 }
