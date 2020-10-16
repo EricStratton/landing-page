@@ -11,7 +11,6 @@ img {
   top: -55px;
   right: 10px;
   position: relative;
-  box-sizing: border-box;
   display: block;
 }
 .header {
@@ -22,6 +21,7 @@ img {
 .sidebar {
   width: 40%;
   float: right;
+  clear: both;
 }
 .my-class {
   border-bottom: 5px;
@@ -58,6 +58,3 @@ hr {
   border: 1px;
   padding: 35px;
 }
-/* img {
-  float: right;
-} */
