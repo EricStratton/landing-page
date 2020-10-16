@@ -34,6 +34,14 @@ hr {
   position: relative;
   top: 50px;
 }
+.emph {
+  font-weight: bolder;
+}
+.sidebar-2 {
+  width: 40%;
+  float: right;
+}
+
 /* img {
   float: right;
 } */
