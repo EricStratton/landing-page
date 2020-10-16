@@ -4,6 +4,16 @@
 .jumbotron {
   background-color: bisque;
 }
+img {
+  float: right;
+  height: 200px;
+  width: 20%;
+  top: -55px;
+  right: 10px;
+  position: relative;
+  box-sizing: border-box;
+  display: block;
+}
 .header {
   font-style: italic;
   text-emphasis: bold;
