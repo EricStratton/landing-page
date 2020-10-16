@@ -1,3 +1,17 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.jumbotron {
+  background-color: bisque;
+}
 .header {
   text-emphasis: bold;
+  font-size: medium;
 }
+.sidebar {
+  width: 30%;
+  float: right;
+}
+/* img {
+  float: right;
+} */
