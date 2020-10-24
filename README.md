@@ -10,6 +10,11 @@ This webpage contains links to my showcase projects through GitHub repositories.
 
 ## Setup
 
+### Online:
+Visit my landing page online at: https://ericstratton.github.io/landing-page/
+
+
+### Terminal:
 - Open command terminal on local device
 - Navigate to desktop in terminal using "\$ cd desktop"
 - Copy GitHub link from project repository
@@ -37,4 +42,6 @@ If any issues arise do not hesitate to contact me at:
 
 ## Licensing
 
-MIT License 2020
+Copyright (c) 2020 Eric Stratton
+
+This software is licensed under the MIT License
